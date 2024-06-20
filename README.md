@@ -6,3 +6,9 @@
 - me / codepulze / evilbytecode
 
 ## Licensed under MIT.
+
+## Showcase:
+
+
+https://github.com/EvilBytecode/Powershell-Persistance/assets/151552809/09488980-215c-41f1-ba1d-8e5e34188f53
+
